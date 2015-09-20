@@ -1,7 +1,14 @@
+plugins {
+    id 'groovy'
+    id 'com.github.johnrengelman.shadow' version '1.2.2'
+}
+
 group 'fr.uvsq.doosa'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'groovy'
+apply plugin: 'application'
+mainClassName = 'fr.uvsq.doosa.gbintool.Main'
 
 sourceCompatibility = 1.8
 
