@@ -11,3 +11,7 @@ gradle-app.setting
 .idea/
 gbintool.iml
 out/
+
+# local libs and data
+libs/
+src/test/resources/
