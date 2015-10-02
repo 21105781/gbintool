@@ -39,3 +39,6 @@ A tool to query gbin files
 * [Starlink](http://starlink.eao.hawaii.edu/starlink)
 * [Javadoc](http://www.starlink.rl.ac.uk/star/starjava/docs/gbin/javadocs/) for Starlink Gbin package
 * Starlink Tables Infrastructure Library (STIL) [site](http://www.star.bristol.ac.uk/~mbt/stil/)
+  * [Javadoc](http://www.star.bristol.ac.uk/~mbt/stil/javadocs) for the STIL API
+  * [TOPCAT](http://www.star.bristol.ac.uk/~mbt/topcat/) a graphical tool for gbin data
+  * [STILTS](http://www.star.bristol.ac.uk/~mbt/stilts/) a toolbox for gbin data
